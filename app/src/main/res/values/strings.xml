@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Lanjutan</string>
+    <string-array name="menu_home">
+        <item>Camera</item>
+        <item>Telephone</item>
+        <item>Bluetooth</item>
+        <item>WiFi</item>
+        <item>"Speech to Text"</item>
+    </string-array>
+</resources>
